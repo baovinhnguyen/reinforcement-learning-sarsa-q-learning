@@ -6,7 +6,11 @@
 
    • A goal state, marked by a G.
    
-   • A set of states consisting of open space, marked by an O. • A set of states consisting of icy surface, marked by an I. • A set of holes, marked by an H.
+   • A set of states consisting of open space, marked by an O. 
+   
+   • A set of states consisting of icy surface, marked by an I. 
+   
+   • A set of holes, marked by an H.
     
  - We have the following dynamics:
  
